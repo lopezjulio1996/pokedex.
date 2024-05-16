@@ -63,6 +63,7 @@ Ve a la URL de tu aplicación para comprobar que todo funciona correctamente
 Crea un nuevo repositorio en GitHub llamado pokedex.
 	Subir el código al repositorio:
 Abre una terminal y navega a la carpeta del proyecto.
+
 echo "# pokedex" >> README.md
 git init
 git add README.md
@@ -70,5 +71,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/jatemast/pokedex.git
 git push -u origin main
+
+
+https://github.com/lopezjulio1996/pokedex..git
+
 PORTAFOLIOS
 https://juanca.blob.core.windows.net/julio/portafolio.html (JUAN CARLOS LOPEZ JULIO)
